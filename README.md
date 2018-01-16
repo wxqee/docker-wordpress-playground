@@ -1,6 +1,7 @@
 # Reference
 
-[QuickStart: Compose and WordPress](https://docs.docker.com/compose/wordpress/)
+1. [wxqee/docker-wordpress-playground](https://github.com/wxqee/docker-wordpress-playground)
+1. [QuickStart: Compose and WordPress](https://docs.docker.com/compose/wordpress/)
 
 # Run Example
 
