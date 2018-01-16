@@ -1,4 +1,5 @@
 db_data
-**/wordpress/wp-config.php
+**/wp-config.php
+**/wp-content/uploads
 .htaccess
 wp-config-sample.php
